@@ -2,6 +2,7 @@
 --- | ---:
 100keys.txt|key 文件
 attack_shiro.py|攻击检测脚本 支持 CBC、GCM 两种模式
+attack_shiro_py3.py|适配python3 支持 CBC、GCM 两种模式
 cookie.py|生成cookie 脚本
 url.txt|待检测的url列表
 ysoserial-0.0.7-SNAPSHOT-all.jar|反序列化poc生成框架
